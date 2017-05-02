@@ -4,7 +4,7 @@ This is a robot application simulation of a toy robot moving on a square tableto
 
 To run the app, you'll need:
 
-Node.js  (https://nodejs.org/en/download/),
+Node.js  (https://nodejs.org/en/download/),      
 npm [npm](https://www.npmjs.com/),
 For testing mocha chai framework is used 
 npm install chai commands should be used.
