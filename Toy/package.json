@@ -1,0 +1,14 @@
+{
+    "name": "ToyRobotMovingApplication",
+    "version": "1.0.0",
+    "description": "App to operate a toy robot",
+    "author": "Tamilarasan R",
+    "scripts": {
+        "start": "node OperateToy.js",
+        "test": "mocha Test.js"
+    },
+    "dependencies":{
+        "mocha": "3.3.0",
+        "chai": "3.5.0"
+    }
+}
